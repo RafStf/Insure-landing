@@ -305,9 +305,7 @@ footer li a {
   }
   .img-header {
     display: inline-block;
-    margin-left: -20px;
     margin-bottom: -10px;
-    max-width: calc(100%+40px);
   }
   .reverse-mobile {
     flex-direction: column-reverse;
